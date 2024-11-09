@@ -1,1 +1,1 @@
-Guorui Li (IEEE Member), Jiamin Zeng, Cong Wang, Sancheng Peng, Shui Yu (IEEE Fellow). Personalized Bayesian Federated Learning via Stein Variational Gradient Descent. IEEE Transactions on Neural Networks and Learning Systems, submitted.
+The full code of pFedSVGD will be made publicly after it is accepted.
